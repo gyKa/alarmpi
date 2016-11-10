@@ -3,6 +3,7 @@
 ```sh
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install -y git mpg123
+git clone https://github.com/gyKa/alarmpi.git
 ```
 
 ### Prepare USB audio
